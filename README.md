@@ -1,3 +1,3 @@
 # flutter_timer
 
-git push -u origin master
+Small Flutter timer app based on BLoC tutorial
